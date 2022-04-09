@@ -6,8 +6,6 @@ Details: https://www.kaggle.com/competitions/dataptmad1121/overview
 The  goal of the competition  is to predict the price of diamonds based on their features
 
 ### Workflow
-Language: Python
-Libraries : [numpy] (https://numpy.org/) ,pandas,sklearn
 
 1. A previous study of diamonds features and their influence in price has been done in Module 2 Project https://github.com/DarioDPR/ih_datamadpt1121_project_m2/tree/ih_datamadpt1121_project_m2
 2. First we drop index_id and city columns from train dataset as they are not relevant values
